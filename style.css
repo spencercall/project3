@@ -1,0 +1,34 @@
+body {
+    background-color: lightgreen;
+    color: darkblue;
+    margin: 15px;
+    text-align: left;
+}
+
+header, section, footer {
+    max-width: 1000px
+}
+
+
+header {
+    border: 3px, solid;
+    border-color: darkblue;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 5px;
+}
+
+p {
+    line-height: 1.5em;
+    max-width: 50em;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    max-width: 35%;
+    float: left;
+    margin-right: 15px;
+}
